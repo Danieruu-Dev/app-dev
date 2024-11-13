@@ -1,9 +1,9 @@
 # app-dev
 My first repository
 
-#**Daniel Panturas**
+# **Daniel Panturas**
 
-##My Favorite Movies
+## My Favorite Movies
 1. Interstellar
 2. Kimi no nawa
 3. Avengers: Endgame
